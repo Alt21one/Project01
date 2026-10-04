@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+<meta charest="UTF-8">
+<meta name="viewport">
+<title>Why I Am Learning to Code</title>
+
+</head>
+
+<body>
+<h1>What I want to learn </h1>
+<p>I want to learn how to make a website using <strong> HTML,CSS,JavaScript</strong><br>
+i want to cool looking website</p>
+
+<hr></hr>
+
+<h2>What i want to Do with it </h2>
+<h2>I want to create my own Webstie with cool design</h2>
+
+<hr></hr>
+<h3>My first Website</h3>
+<p>It would be a file scanner using <em>Virustotal,MalwareBazaar </em><br></br>
+ you can select the file or folder which you want to scan </p>
+
+<hr></hr
+>
+<h4>When Would i start</h4>
+<p>After Amman42 i will start working with my website</p>
+
+</body>
+</html>
